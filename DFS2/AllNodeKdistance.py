@@ -1,3 +1,5 @@
+#TimeComplexity: O(n)
+#SpaceComplexity: O(n)
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
         
